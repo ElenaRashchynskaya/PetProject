@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Smoke">
+    <test name="Login module">
+        <classes>
+            <class name="orange.Tests.Login"/>
+        </classes>
+    </test>
+    <test name="Dashboard module">
+        <classes>
+            <class name="orange.Tests.Dashboard"/>
+        </classes>
+    </test>
+</suite>

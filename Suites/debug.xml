@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestNG" parallel="methods" thread-count="1">
+    <test name="Test">
+        <classes>
+            <class name="orange.Tests.Login">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee86f040-970a-4683-88f4-e3a75b6b38cb" name="Changes" comment="add gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea_back/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea_back/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea_back/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea_back/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea_back/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea_back/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea_back/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_back/reports/tests/1705764758246.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_back/reports/tests/1705764758246.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_back/reports/tests/1705764763548.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_back/reports/tests/1705764763548.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_back/reports/tests/1705764768675.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_back/reports/tests/1705764768675.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_back/reports/tests/1705764848843.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_back/reports/tests/1705764848843.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_back/reports/tests/1705764854323.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_back/reports/tests/1705764854323.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_back/reports/tests/1705765153073.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_back/reports/tests/1705765153073.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_back/reports/tests/1705766507705.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_back/reports/tests/1705766507705.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target_back/classes/orange/Core/Models/LoginUser$UserModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target_back/classes/orange/Core/Models/LoginUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target_back/classes/orange/Pages/CommonPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target_back/classes/orange/Pages/DashboardPage$Header.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target_back/classes/orange/Pages/DashboardPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target_back/classes/orange/Pages/LoginPage$LoginForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target_back/classes/orange/Pages/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target_back/classes/orange/Pages/Waiter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target_back/classes/orange/Steps/OrangeSteps$PageName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target_back/classes/orange/Steps/OrangeSteps$UserMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target_back/classes/orange/Steps/OrangeSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target_back/classes/orange/Tests/Dashboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target_back/classes/orange/Tests/Login.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="gitIgnore" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/orange/Pages/LoginPage.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2bAhAxa42ZdY7HofAWtEiGrsH1K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/EKalosha/IdeaProjects/PetProject/Suites/debug.xml&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="orange.Pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Smoke">
+    <configuration name="Dashboard.Check_User_Menu" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="orange.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="orange.Tests" />
+      <option name="MAIN_CLASS_NAME" value="orange.Tests.Dashboard" />
+      <option name="METHOD_NAME" value="Check_User_Menu" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Debug" type="TestNG" temporary="true">
+      <module name="PetProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="orange.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Suites/debug.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="orange.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="orange.Tests" />
+      <option name="MAIN_CLASS_NAME" value="orange.Tests.Login" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login.Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="orange.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="orange.Tests" />
+      <option name="MAIN_CLASS_NAME" value="orange.Tests.Login" />
+      <option name="METHOD_NAME" value="Login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login.Logout" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="orange.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="orange.Tests" />
+      <option name="MAIN_CLASS_NAME" value="orange.Tests.Login" />
+      <option name="METHOD_NAME" value="Logout" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Smoke" type="TestNG">
+      <module name="PetProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="orange.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Suites/smoke.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.Smoke" />
+      <item itemvalue="TestNG.Login" />
+      <item itemvalue="TestNG.Dashboard.Check_User_Menu" />
+      <item itemvalue="TestNG.Login.Logout" />
+      <item itemvalue="TestNG.Login.Login" />
+      <item itemvalue="TestNG.Debug" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Debug" />
+        <item itemvalue="TestNG.Login.Login" />
+        <item itemvalue="TestNG.Login.Logout" />
+        <item itemvalue="TestNG.Dashboard.Check_User_Menu" />
+        <item itemvalue="TestNG.Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee86f040-970a-4683-88f4-e3a75b6b38cb" name="Changes" comment="" />
+      <created>1705663652986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705663652986</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add gitignore">
+      <created>1705919965615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705919965616</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add gitignore">
+      <created>1707331070930</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707331070930</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
+  </component>
+</project>
